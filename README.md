@@ -1,5 +1,5 @@
 # webassembly-test
-A webassembly performance test vs default js.
+A webassembly performance test vs native js.
 
     1. A c file was created with a add method which simply returns a+b (run.c)
     
